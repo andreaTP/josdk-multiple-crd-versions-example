@@ -1,5 +1,5 @@
 
-Run this example:
+Compile this example:
 
 ```
 mvn clean compile
